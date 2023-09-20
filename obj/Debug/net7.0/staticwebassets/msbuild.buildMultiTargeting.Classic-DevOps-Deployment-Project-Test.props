@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Classic-DevOps-Deployment-Project-Test.props" />
+</Project>

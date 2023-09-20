@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Classic-DevOps-Deployment-Project-Test.props" />
+</Project>
